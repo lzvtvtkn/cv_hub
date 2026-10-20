@@ -21,8 +21,6 @@ skills:
       - Delivery Planning
       - Resource and Capacity Planning
       - Budget and KPI Tracking
-      - Agile Project Management
-      - Kanban
   - group: "Collaboration"
     items:
       - Stakeholder Management
@@ -83,7 +81,6 @@ experience:
     description:
       - "Coordinated internal operational processes and maintained up-to-date project documentation."
       - "Conducted internal audits to ensure compliance with operational standards for organizing and storing project documentation."
-      - "Applied Waterfall methodology for planning and tracking project activities."
       - "Assisted in operational planning to ensure internal projects were delivered on time and all stakeholders were engaged."
 
   - company: "AZN Research Inc"
