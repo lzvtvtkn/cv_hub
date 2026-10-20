@@ -10,13 +10,6 @@ contacts:
   - label: Almaty, Kazakhstan
     url: https://www.google.com/maps/search/Almaty,+Kazakhstan
 
-achievements:
-  - "Managed 50-60 tasks per month for a major national client at Red Collar"
-  - "Planned capacity and resources across a pool of up to 50 specialists"
-  - "Helped deliver a landing page within 8 business days by speeding up approvals and aligning team priorities"
-  - "Coordinated around 15 specialists across 8-10 simultaneous projects for international Web3, AI and SaaS clients"
-  - "Led client communication in English with clients ranging from banking specialists to startup founders"
-
 skills:
   - group: "Project Management"
     items:
@@ -28,7 +21,8 @@ skills:
       - Delivery Planning
       - Resource and Capacity Planning
       - Budget and KPI Tracking
-      - Waterfall
+      - Agile Project Management
+      - Kanban
   - group: "Collaboration"
     items:
       - Stakeholder Management
@@ -36,21 +30,6 @@ skills:
       - Requirements Management
       - Client Communication
       - Business English
-  - group: "Domains"
-    items:
-      - FinTech
-      - Telecom
-      - HR Solutions
-      - Web3
-      - AI
-      - SaaS
-      - UI/UX Design
-      - Web Development
-  - group: "Tools"
-    items:
-      - ChatGPT
-      - Gemini
-      - tl;dv
 
 languages:
   - language: "Russian"
