@@ -1,0 +1,104 @@
+name: "Elizaveta Avtaikina"
+title: "Digital Project Manager"
+summary: "Digital Project Manager with 5+ years of experience managing digital projects and working with international clients across FinTech, telecom, HR solutions, Web3, AI and web development. I coordinate design and development teams, manage timelines, budgets and resources, and align client expectations with delivery goals. My key strength is a client-first approach and helping teams collaborate effectively while adapting to change."
+
+contacts:
+  - label: Email
+    url: mailto:liza.avtaykina12@gmail.com
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/elizaveta-avtaikina-460a10281/
+  - label: Almaty, Kazakhstan
+    url: https://www.google.com/maps/search/Almaty,+Kazakhstan
+
+skills:
+  - group: "Hard skills"
+    items:
+      - Project Management
+      - Workflow Management
+      - Task Prioritization
+      - Scope Control
+      - Risk Management
+      - Delivery Planning
+      - Resource and Capacity Planning
+      - Budget and KPI Tracking
+      - Requirements Management
+  - group: "Soft skills"
+    items:
+      - Stakeholder Management
+      - Cross-Functional Team Management
+      - Client Communication
+      - Business English
+
+languages:
+  - language: "Russian"
+    level: "Native"
+  - language: "English"
+    level: "C1"
+  - language: "French"
+    level: "Elementary (A2)"
+
+experience:
+  - company: "Red Collar"
+    role: "Digital Project Manager (Contract)"
+    period: "Jun 2026 – Present"
+    description:
+      - "Manage 50-60 tasks per month for a major national client, covering ongoing design support, video production, landing page design and development, and POSM design for print materials."
+      - "Coordinate priorities, deadlines, client feedback and team workload."
+      - "Lead communication between the client and cross-functional teams, clarify requirements, and track tasks from assignment to delivery."
+      - "Prepare structured task descriptions and business requirements for landing pages and corporate websites."
+      - "Use AI tools to speed up task creation and keep project documentation clear and consistent."
+
+  - company: "Relate Studio"
+    role: "Project Manager"
+    period: "Feb 2026 – Jun 2026"
+    description:
+      - "Managed 8-10 projects at a time for international clients across Web3, AI and SaaS, covering branding, product design, websites and development."
+      - "Set up new projects after sales, reviewed client briefs, created project plans and timelines, and agreed on milestones and client responsibilities."
+      - "Coordinated around 15 specialists across projects, including design, development and external resources, based on team capacity and project needs."
+      - "Tracked progress, deadlines, risks, team hours and scope changes; raised delivery and budget risks and suggested next steps."
+      - "Worked closely with clients, art directors, designers and developers to review deliverables, manage feedback and agree on revisions and priorities."
+      - "Led client communication in English, including project updates, timeline changes and discussions of requirements and deliverables."
+      - "Prepared weekly and monthly project reports and worked with other project managers to plan and adjust team resources."
+
+  - company: "Red Collar"
+    role: "IT Project Manager"
+    period: "Jan 2024 – Feb 2026"
+    description:
+      - "Managed 4-5 active projects at a time for clients in telecom and finance, as well as custom HR solutions for corporate HR teams, including ongoing technical support."
+      - "Planned team capacity and resource allocation across a pool of up to 50 specialists, based on project priorities and availability."
+      - "Tracked project budgets, team hours and KPIs related to target profit margins."
+      - "Managed technical support projects, prioritized tasks, tracked deadlines and coordinated team workload based on client needs."
+      - "Worked with clients, business analysts, developers and external integration partners to clarify business requirements, document business logic and create development tasks."
+      - "Coordinated testing and release preparation, checked key scenarios and ran client demos."
+      - "Maintained project documentation and reports, and coordinated preparation and approval of documents related to budgeting, invoicing and payments."
+      - "Helped deliver a landing page within 8 business days by speeding up approvals and aligning team priorities."
+      - "Used AI tools to support reporting, follow-ups and project documentation."
+    stack: [ChatGPT, Gemini, tl;dv]
+
+  - company: "Галерея Новостроек"
+    role: "Project Manager"
+    period: "Sep 2023 – Nov 2023"
+    description:
+      - "Coordinated internal operational processes and maintained up-to-date project documentation."
+      - "Conducted internal audits to ensure compliance with operational standards for organizing and storing project documentation."
+      - "Assisted in operational planning to ensure internal projects were delivered on time and all stakeholders were engaged."
+
+  - company: "AZN Research Inc"
+    role: "IT Project Manager (Contract)"
+    period: "Apr 2021 – Jul 2023"
+    description:
+      - "Managed 2-4 software projects at a time, including digital account applications, anti-fraud solutions, BI tools and a media platform with an integrated marketplace."
+      - "Coordinated development work, client requirements, project timelines and quality checks."
+      - "Supported an API integration into a client product by coordinating senior developers, junior developers, testing and client updates."
+      - "Worked directly with English-speaking clients, from banking specialists to startup founders."
+      - "Improved team planning by reviewing estimates and focusing daily meetings on blockers."
+
+  - company: "AZN Research Inc"
+    role: "Junior IT Project Manager (Part-time)"
+    period: "Nov 2020 – Mar 2021"
+    description:
+      - "Assisted senior PMs with planning, scheduling and tracking project activities."
+      - "Created project documentation, schedules and progress reports."
+      - "Liaised with stakeholders to gather requirements and share updates."
+      - "Coordinated project meetings and documented key decisions and action items."
+      - "Provided content management support via a built-in CMS system."
