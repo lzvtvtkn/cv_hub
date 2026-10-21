@@ -11,7 +11,7 @@ contacts:
     url: https://www.google.com/maps/search/Almaty,+Kazakhstan
 
 skills:
-  - group: "Project Management"
+  - group: "Hard skills"
     items:
       - Project Management
       - Workflow Management
@@ -21,11 +21,11 @@ skills:
       - Delivery Planning
       - Resource and Capacity Planning
       - Budget and KPI Tracking
-  - group: "Collaboration"
+      - Requirements Management
+  - group: "Soft skills"
     items:
       - Stakeholder Management
       - Cross-Functional Team Management
-      - Requirements Management
       - Client Communication
       - Business English
 
